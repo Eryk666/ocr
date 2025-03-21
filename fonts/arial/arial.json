@@ -1,0 +1,207 @@
+{
+    "font_name": "arial",
+    "line_height": 48,
+    "space_width": 10,
+    "characters": [
+        {
+            "char": "a",
+            "image": "a.png",
+            "match_weight": 1
+        },
+        {
+            "char": "b",
+            "image": "b.png",
+            "match_weight": 1
+        },
+        {
+            "char": "c",
+            "image": "c.png",
+            "match_weight": 0.8
+        },
+        {
+            "char": "d",
+            "image": "d.png",
+            "match_weight": 1
+        },
+        {
+            "char": "e",
+            "image": "e.png",
+            "match_weight": 1
+        },
+        {
+            "char": "f",
+            "image": "f.png",
+            "match_weight": 1
+        },
+        {
+            "char": "g",
+            "image": "g.png",
+            "match_weight": 1
+        },
+        {
+            "char": "h",
+            "image": "h.png",
+            "match_weight": 1
+        },
+        {
+            "char": "i",
+            "image": "i.png",
+            "match_weight": 0.8
+        },
+        {
+            "char": "j",
+            "image": "j.png",
+            "match_weight": 0.9
+        },
+        {
+            "char": "k",
+            "image": "k.png",
+            "match_weight": 1
+        },
+        {
+            "char": "l",
+            "image": "l.png",
+            "match_weight": 0.9
+        },
+        {
+            "char": "m",
+            "image": "m.png",
+            "match_weight": 1
+        },
+        {
+            "char": "n",
+            "image": "n.png",
+            "match_weight": 0.95
+        },
+        {
+            "char": "o",
+            "image": "o.png",
+            "match_weight": 0.9
+        },
+        {
+            "char": "p",
+            "image": "p.png",
+            "match_weight": 1
+        },
+        {
+            "char": "q",
+            "image": "q.png",
+            "match_weight": 1
+        },
+        {
+            "char": "r",
+            "image": "r.png",
+            "match_weight": 0.95
+        },
+        {
+            "char": "s",
+            "image": "s.png",
+            "match_weight": 1
+        },
+        {
+            "char": "t",
+            "image": "t.png",
+            "match_weight": 1
+        },
+        {
+            "char": "u",
+            "image": "u.png",
+            "match_weight": 1
+        },
+        {
+            "char": "v",
+            "image": "v.png",
+            "match_weight": 1
+        },
+        {
+            "char": "w",
+            "image": "w.png",
+            "match_weight": 1
+        },
+        {
+            "char": "x",
+            "image": "x.png",
+            "match_weight": 1
+        },
+        {
+            "char": "y",
+            "image": "y.png",
+            "match_weight": 1
+        },
+        {
+            "char": "z",
+            "image": "z.png",
+            "match_weight": 1
+        },
+        {
+            "char": ".",
+            "image": "dot.png",
+            "match_weight": 0.05
+        },
+        {
+            "char": ",",
+            "image": "comma.png",
+            "match_weight": 0.1
+        },
+        {
+            "char": "!",
+            "image": "exclamation.png",
+            "match_weight": 0.9
+        },
+        {
+            "char": "?",
+            "image": "question.png",
+            "match_weight": 1
+        },
+        {
+            "char": "0",
+            "image": "0.png",
+            "match_weight": 0.9
+        },
+        {
+            "char": "1",
+            "image": "1.png",
+            "match_weight": 0.9
+        },
+        {
+            "char": "2",
+            "image": "2.png",
+            "match_weight": 1
+        },
+        {
+            "char": "3",
+            "image": "3.png",
+            "match_weight": 1
+        },
+        {
+            "char": "4",
+            "image": "4.png",
+            "match_weight": 1
+        },
+        {
+            "char": "5",
+            "image": "5.png",
+            "match_weight": 1
+        },
+        {
+            "char": "6",
+            "image": "6.png",
+            "match_weight": 1
+        },
+        {
+            "char": "7",
+            "image": "7.png",
+            "match_weight": 1
+        },
+        {
+            "char": "8",
+            "image": "8.png",
+            "match_weight": 1
+        },
+        {
+            "char": "9",
+            "image": "9.png",
+            "match_weight": 1
+        }
+    ]
+}
