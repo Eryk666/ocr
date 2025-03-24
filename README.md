@@ -1,6 +1,6 @@
 # OCR
 
-An Optical Character Recognition (OCR) tool that utilizes Discrete Fourier Transform (DFT) to extract text from images. It was made for the Computational Methods in Science and Technology course at AGH UST.
+An Optical Character Recognition (OCR) tool that utilizes Discrete Fourier Transform (DFT) to extract text from images. Made for the Computational Methods in Science and Technology course at AGH UST.
 
 ## Installation
 
